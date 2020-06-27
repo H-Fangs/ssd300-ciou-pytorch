@@ -2,7 +2,7 @@
 
 ## Details
 * Dataaug: edit resize and mirror augment method  
-* Backone: se_resnext101_32x4d  
+* Backbone: se_resnext101_32x4d  
 * neck: fpn  
 * loss: ciou-loss  
 
