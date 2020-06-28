@@ -8,7 +8,7 @@
 
 ## Test result  
 * [weight path](https://pan.baidu.com/s/1myke6blQqFD1dx4SuYRBEg)(提取码：lnow)
-* put the weight in **weight/**, than run the **lajiEval.py**
+* put the weight in **weights/train_weights/ssd300_se_resnext101_32x4d_correct_transform_full_data_ciou_sgd_1gpu_6_6/**, than run the **lajiEval.py**
 
 ## Results  
 * map 72.66  
